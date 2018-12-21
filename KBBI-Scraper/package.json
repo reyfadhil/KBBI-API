@@ -1,0 +1,16 @@
+{
+  "name"         : "KBBI-scraper",
+  "version"      : "0.0.1",
+  "description"  : "Scraping KBBI",
+  "main"         : "server.js",
+  "author"       : "Reyhan",
+  "repository"   : {
+    "type" : "git",
+    "url"  : "https://github.com/scotch-io/node-web-scraper"
+  },
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
